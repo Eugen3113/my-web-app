@@ -52,3 +52,11 @@ main {
   border-top: 2px solid #ccc;
   border-bottom: 2px solid #ccc;
 }
+
+  #image-container {
+    background-image: url("https://img.freepik.com/premium-vector/application-programming-interface_773186-1537.jpg?ga=GA1.1.1350893169.1749246543&semt=ais_hybrid&w=740");
+    /* background-size: cover; */
+    background-repeat: no-repeat;
+    background-position: center;
+    position: static;
+  }
